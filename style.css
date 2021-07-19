@@ -1,0 +1,9 @@
+body {
+
+    font-family: "Times New Roman", Times, serif;
+    background-color: #98ff98;
+}
+
+.jumbotron {
+    background-image: url("download.jpg");
+}
